@@ -19,7 +19,6 @@ const menuItems = [
   { icon: Users, label: 'Users', path: '/users' },
   { icon: Settings, label: 'Settings', path: '/settings' },
   { icon: BarChart3, label: 'Analytics', path: '/analytics' },
-  { icon: Shield, label: 'Compliance', path: '/compliance' },
   { icon: UserCog, label: 'Sub-Admins', path: '/sub-admins' },
 ];
 
